@@ -5,6 +5,6 @@ while (index <= 20):
         print(index)
     index += 1
 print('with for :')
-for x in range(10, 21):
+or x in range(10, 21):
     if (x % 2 != 0):
         print(x)
