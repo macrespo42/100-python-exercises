@@ -1,2 +1,2 @@
-lst = [x for x in range(11)]
+lst = [x for x in range(1, 11)]
 print(lst)
