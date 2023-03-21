@@ -1,5 +1,5 @@
 var = "Hello"
-if var is str:
+if type(var) is str:
     print("var is a string")
-elif var is int:
+elif type(var) is int:
     print("var is a int")
