@@ -43,8 +43,7 @@
 <details>
  <summary>Intermediate 🐔:</summary>
 
-  - ex32
-  - ex33
+  - [ex33](#ex33)
  ---
  </details>
 
@@ -268,6 +267,12 @@ who got element of **L** who are strictly superior to 0 then print **L1**
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex32.py)
 
 ---
+### <a name="ex33"></a>ex33
+Write a function named f(a,b,x) who return the result of : ``a * (x**3) + 2 * a * (x**2) + b``  
+Tests:  
+f(3, 0, 1) return 9  
+f(0, 2, 2) return 2  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex33.py)
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
