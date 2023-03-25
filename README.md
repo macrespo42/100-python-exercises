@@ -357,10 +357,20 @@ Write a function minimum who return the minimum(lst) who return the minimum valu
 **NB: do no use the min builtin function**  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex42.py)  
 
+---
 ### <a name="ex43"></a>ex43
 Write a function length(lst) who return the number of element in the list  
 **NB: do no use the length builtin function**  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex43.py)  
+
+
+---
+### <a name="ex44"></a>ex44
+Write a function who return the average of a list of integer  
+Ex:  
+>> listAverage([1, 2, 3, 4, 5, 6, 7])  
+4.0  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex44.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
