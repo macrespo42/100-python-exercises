@@ -44,6 +44,14 @@
  <summary>Intermediate 🐔:</summary>
 
   - [ex33](#ex33)
+  - [ex34](#ex34)
+  - [ex35](#ex35)
+  - [ex36](#ex36)
+  - [ex37](#ex37)
+  - [ex38](#ex38)
+  - [ex39](#ex39)
+  - [ex40](#ex40)
+  - [ex41](#ex41)
  ---
  </details>
 
@@ -273,6 +281,72 @@ Tests:
 f(3, 0, 1) return 9  
 f(0, 2, 2) return 2  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex33.py)
+
+---
+### <a name="ex34"></a>ex34
+Write a function naemed verifPresence(element, list) who return True if element is in list and false  
+if an element is not in the list  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex34.py)
+
+---
+### <a name="ex35"></a>ex35
+Write a function who return the sum of the number who compose this number  
+Ex: **149** print **14** and **3018** print **12**  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex35.py)
+
+---
+### <a name="ex36"></a>ex36
+Write a function sumOfList(lst) who take as argument a list of integer and return the sum of this list  
+Ex:  
+sumOfList([3, 2, 6, 9, -1, 5])    
+sumOfList([-3, -6, 0, 1, 2, 7])  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex36.py)
+
+---
+### <a name="ex37"></a>ex37
+Write a function removeDuplicate(lst) who take as argument a list of integer and return the list without duplicate  
+and sorted in increasing order
+Ex:  
+removeDuplicate([0, 3, 5, 7, 3, 5, 1, -1]) return [-1, 0, 1, 3, 5, 7]
+removeDuplicate([-3, -6, 0, 1, 2, 7]) return [-6, -3, 0, 1, 2, 7]  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex37.py)
+
+---
+### <a name="ex38"></a>ex38
+Write a function addElementDict(key, value, dict) who add an element to a dictionary and return it
+Ex:  
+addElementDict("baptiste", 29, {"julien": 14, "laurent": 31}) return: {'julien': 14, 'laurent': 31, 'baptiste': 29}  
+addElementDict("weight", 65.3, {}) return: {'weight': 65.3}
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex38.py)
+
+---
+### <a name="ex39"></a>ex39
+Write a function maximum(lst) who take a list of number as argument and return the max  
+nb: Do not use the builtin max function  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex39.py)  
+
+---
+### <a name="ex40"></a>ex40
+Write a function sumSubList(lst, i, j) where list is a list of integer, i the index of computing beginning  
+j end of it then return the sum of numbers in the range i / j of the list  
+Ex:  
+``sumSubList([4, 10, 12, 16, 18], 2, 4)``  
+``sumSubList([2, 4, 6, 8, 10, 12], 0, 2)``  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex40.py)  
+
+
+---
+### <a name="ex41"></a>ex41
+Write a script who print a pyramid like that :  
+
+```*
+**
+***
+****
+*****
+******
+```
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex41.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
