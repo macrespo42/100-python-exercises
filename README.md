@@ -54,6 +54,8 @@
   - [ex41](#ex41)
   - [ex42](#ex42)
   - [ex43](#ex43)
+  - [ex44](#ex44)
+  - [ex45](#ex45)
  ---
  </details>
 
@@ -368,9 +370,17 @@ Write a function length(lst) who return the number of element in the list
 ### <a name="ex44"></a>ex44
 Write a function who return the average of a list of integer  
 Ex:  
->> listAverage([1, 2, 3, 4, 5, 6, 7])  
+\>\> listAverage([1, 2, 3, 4, 5, 6, 7])  
 4.0  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex44.py)  
+
+---
+### <a name="ex45"></a>ex45
+Write a function who return the average of a list of integer  
+Ex:  
+\>\> divider(9)  
+[1, 3, 9]
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex45.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
