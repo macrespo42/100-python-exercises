@@ -56,6 +56,7 @@
   - [ex43](#ex43)
   - [ex44](#ex44)
   - [ex45](#ex45)
+  - [ex46](#ex46)
  ---
  </details>
 
@@ -380,6 +381,16 @@ Write a function who return the average of a list of integer
 Ex:  
 \>\> divider(9)  
 [1, 3, 9]
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex45.py)  
+
+---
+### <a name="ex46"></a>ex46
+Write a function who verify if a string contain a upper char  
+Ex:  
+\>\> checkUpper("Vegetables are good for health")   
+True  
+\>\> checkUpper("i learn ruby")   
+False  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex45.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
