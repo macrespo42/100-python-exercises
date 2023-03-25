@@ -399,7 +399,7 @@ False
 ---
 ### <a name="ex47"></a>ex47
 Write a function who concat 3 list  
-Ex:
+Ex:  
 \>\> concatList([0, 9, 8], [3, 4, 2], ["false", "true", 5])
 [0, 9, 8, 3, 4, 2, 'false', 'true', 5]  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex47.py)  
@@ -407,18 +407,18 @@ Ex:
 ---
 ### <a name="ex48"></a>ex48
 Write a function who return the length of values in a dict assuming the value in dict are lists
-Ex:
+Ex:  
 \>\> dictValuesLength({"a": [1, 2, 3], "b": [4], "c": []})
-4
+4  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex48.py)  
 
 
 ---
 ### <a name="ex49"></a>ex49
 Write a function who concat 2 dict and return the concatenated dict 
-Ex:
+Ex:  
 \>\> concatDict({"a": 3, "b": 6}, {"c": 2, "d": 4})  
-{'a': 3, 'b': 6, 'c': 2, 'd': 4}  
+{'a': 3, 'b': 6, 'c': 2, 'd': 4}   
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex49.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
