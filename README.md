@@ -59,6 +59,7 @@
   - [ex46](#ex46)
   - [ex47](#ex47)
   - [ex48](#ex48)
+  - [ex49](#ex49)
  ---
  </details>
 
@@ -410,6 +411,15 @@ Ex:
 \>\> dictValuesLength({"a": [1, 2, 3], "b": [4], "c": []})
 4
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex48.py)  
+
+
+---
+### <a name="ex49"></a>ex49
+Write a function who concat 2 dict and return the concatenated dict 
+Ex:
+\>\> concatDict({"a": 3, "b": 6}, {"c": 2, "d": 4})  
+{'a': 3, 'b': 6, 'c': 2, 'd': 4}  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex49.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
