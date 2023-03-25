@@ -41,7 +41,7 @@
  </details>
 
 <details>
- <summary>Intermediate 🐔:</summary>
+ <summary>intermediate 🐔:</summary>
 
   - [ex33](#ex33)
   - [ex34](#ex34)
@@ -288,19 +288,19 @@ Write a function named f(a,b,x) who return the result of : ``a * (x**3) + 2 * a 
 Tests:  
 f(3, 0, 1) return 9  
 f(0, 2, 2) return 2  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex33.py)
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex33.py)
 
 ---
 ### <a name="ex34"></a>ex34
 Write a function naemed verifPresence(element, list) who return True if element is in list and false  
 if an element is not in the list  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex34.py)
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex34.py)
 
 ---
 ### <a name="ex35"></a>ex35
 Write a function who return the sum of the number who compose this number  
 Ex: **149** print **14** and **3018** print **12**  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex35.py)
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex35.py)
 
 ---
 ### <a name="ex36"></a>ex36
@@ -308,7 +308,7 @@ Write a function sumOfList(lst) who take as argument a list of integer and retur
 Ex:  
 sumOfList([3, 2, 6, 9, -1, 5])    
 sumOfList([-3, -6, 0, 1, 2, 7])  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex36.py)
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex36.py)
 
 ---
 ### <a name="ex37"></a>ex37
@@ -317,7 +317,7 @@ and sorted in increasing order
 Ex:  
 removeDuplicate([0, 3, 5, 7, 3, 5, 1, -1]) return [-1, 0, 1, 3, 5, 7]
 removeDuplicate([-3, -6, 0, 1, 2, 7]) return [-6, -3, 0, 1, 2, 7]  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex37.py)
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex37.py)
 
 ---
 ### <a name="ex38"></a>ex38
@@ -325,13 +325,13 @@ Write a function addElementDict(key, value, dict) who add an element to a dictio
 Ex:  
 addElementDict("baptiste", 29, {"julien": 14, "laurent": 31}) return: {'julien': 14, 'laurent': 31, 'baptiste': 29}  
 addElementDict("weight", 65.3, {}) return: {'weight': 65.3}
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex38.py)
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex38.py)
 
 ---
 ### <a name="ex39"></a>ex39
 Write a function maximum(lst) who take a list of number as argument and return the max  
 nb: Do not use the builtin max function  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex39.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex39.py)  
 
 ---
 ### <a name="ex40"></a>ex40
@@ -340,7 +340,7 @@ j end of it then return the sum of numbers in the range i / j of the list
 Ex:  
 ``sumSubList([4, 10, 12, 16, 18], 2, 4)``  
 ``sumSubList([2, 4, 6, 8, 10, 12], 0, 2)``  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex40.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex40.py)  
 
 
 ---
@@ -354,20 +354,20 @@ Write a script who print a pyramid like that :
 *****
 ******
 ```
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex41.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex41.py)  
 
 
 ---
 ### <a name="ex42"></a>ex42
 Write a function minimum who return the minimum(lst) who return the minimum value of a list  
 **NB: do no use the min builtin function**  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex42.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex42.py)  
 
 ---
 ### <a name="ex43"></a>ex43
 Write a function length(lst) who return the number of element in the list  
 **NB: do no use the length builtin function**  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex43.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex43.py)  
 
 
 ---
@@ -376,7 +376,7 @@ Write a function who return the average of a list of integer
 Ex:  
 \>\> listAverage([1, 2, 3, 4, 5, 6, 7])  
 4.0  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex44.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex44.py)  
 
 ---
 ### <a name="ex45"></a>ex45
@@ -384,7 +384,7 @@ Write a function who return the average of a list of integer
 Ex:  
 \>\> divider(9)  
 [1, 3, 9]
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex45.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex45.py)  
 
 ---
 ### <a name="ex46"></a>ex46
@@ -394,7 +394,7 @@ Ex:
 True  
 \>\> checkUpper("i learn ruby")   
 False  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex46.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex46.py)  
 
 ---
 ### <a name="ex47"></a>ex47
@@ -402,7 +402,7 @@ Write a function who concat 3 list
 Ex:  
 \>\> concatList([0, 9, 8], [3, 4, 2], ["false", "true", 5])
 [0, 9, 8, 3, 4, 2, 'false', 'true', 5]  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex47.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex47.py)  
 
 ---
 ### <a name="ex48"></a>ex48
@@ -410,7 +410,7 @@ Write a function who return the length of values in a dict assuming the value in
 Ex:  
 \>\> dictValuesLength({"a": [1, 2, 3], "b": [4], "c": []})
 4  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex48.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex48.py)  
 
 
 ---
@@ -419,7 +419,7 @@ Write a function who concat 2 dict and return the concatenated dict
 Ex:  
 \>\> concatDict({"a": 3, "b": 6}, {"c": 2, "d": 4})  
 {'a': 3, 'b': 6, 'c': 2, 'd': 4}   
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex49.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex49.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
