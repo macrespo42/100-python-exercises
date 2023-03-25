@@ -57,6 +57,7 @@
   - [ex44](#ex44)
   - [ex45](#ex45)
   - [ex46](#ex46)
+  - [ex47](#ex47)
  ---
  </details>
 
@@ -392,6 +393,13 @@ True
 \>\> checkUpper("i learn ruby")   
 False  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex45.py)  
+
+---
+### <a name="ex47"></a>ex47
+Write a function who concat 3 list  
+Ex:
+\>\> concatList([0, 9, 8], [3, 4, 2], ["false", "true", 5])
+[0, 9, 8, 3, 4, 2, 'false', 'true', 5]
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
