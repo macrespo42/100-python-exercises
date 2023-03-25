@@ -52,6 +52,8 @@
   - [ex39](#ex39)
   - [ex40](#ex40)
   - [ex41](#ex41)
+  - [ex42](#ex42)
+  - [ex43](#ex43)
  ---
  </details>
 
@@ -347,6 +349,18 @@ Write a script who print a pyramid like that :
 ******
 ```
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex41.py)  
+
+
+---
+### <a name="ex42"></a>ex42
+Write a function minimum who return the minimum(lst) who return the minimum value of a list  
+**NB: do no use the min builtin function**  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex42.py)  
+
+### <a name="ex43"></a>ex43
+Write a function length(lst) who return the number of element in the list  
+**NB: do no use the length builtin function**  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex43.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
