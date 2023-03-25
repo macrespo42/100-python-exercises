@@ -58,6 +58,7 @@
   - [ex45](#ex45)
   - [ex46](#ex46)
   - [ex47](#ex47)
+  - [ex48](#ex48)
  ---
  </details>
 
@@ -392,14 +393,23 @@ Ex:
 True  
 \>\> checkUpper("i learn ruby")   
 False  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex45.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex46.py)  
 
 ---
 ### <a name="ex47"></a>ex47
 Write a function who concat 3 list  
 Ex:
 \>\> concatList([0, 9, 8], [3, 4, 2], ["false", "true", 5])
-[0, 9, 8, 3, 4, 2, 'false', 'true', 5]
+[0, 9, 8, 3, 4, 2, 'false', 'true', 5]  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex47.py)  
+
+---
+### <a name="ex48"></a>ex48
+Write a function who return the length of values in a dict assuming the value in dict are lists
+Ex:
+\>\> dictValuesLength({"a": [1, 2, 3], "b": [4], "c": []})
+4
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/Intermediate/ex48.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
