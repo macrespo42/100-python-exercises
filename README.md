@@ -64,6 +64,7 @@
   - [ex51](#ex51)
   - [ex52](#ex52)
   - [ex53](#ex53)
+  - [ex54](#ex54)
  ---
  </details>
 
@@ -460,12 +461,20 @@ False
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex52.py)  
 
 ---
-### <a name="ex52"></a>ex52
+### <a name="ex53"></a>ex53
 Write a function deleteSpace(sentence) who take a string as argument and return the string without spaces  
 Ex:  
 \>\> deleteSpace("go to the plage")  
 gototheplage  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex52.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex53.py)  
+
+---
+### <a name="ex53"></a>ex53
+Write a function deleteSpace(sentence) who take a string as argument and return the string without spaces  
+Ex:  
+\>\> deleteSpace("go to the plage")  
+gototheplage  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex53.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
