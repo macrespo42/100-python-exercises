@@ -66,6 +66,7 @@
   - [ex53](#ex53)
   - [ex54](#ex54)
   - [ex55](#ex55)
+  - [ex56](#ex56)
  ---
  </details>
 
@@ -486,6 +487,15 @@ Write a function filterWord(sentence, minLen) who return the list of the words t
 Ex:  
 \>\> filterWord("Hello you", 4)  
 [Hello]  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex54.py)  
+
+
+---
+### <a name="ex56"></a>ex56
+Write a function who reverse sentence reverseSentence(sentence)
+Ex:  
+\>\> reverseSentence("Hello my friends")  
+friends my Hello  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex54.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
