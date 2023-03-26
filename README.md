@@ -63,6 +63,7 @@
   - [ex50](#ex50)
   - [ex51](#ex51)
   - [ex52](#ex52)
+  - [ex53](#ex53)
  ---
  </details>
 
@@ -456,6 +457,14 @@ Ex:
 True  
 \>\> includeVowel("rbhpm")  
 False  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex52.py)  
+
+---
+### <a name="ex52"></a>ex52
+Write a function deleteSpace(sentence) who take a string as argument and return the string without spaces  
+Ex:  
+\>\> deleteSpace("go to the plage")  
+gototheplage  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex52.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
