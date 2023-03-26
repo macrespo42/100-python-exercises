@@ -60,6 +60,9 @@
   - [ex47](#ex47)
   - [ex48](#ex48)
   - [ex49](#ex49)
+  - [ex50](#ex50)
+  - [ex51](#ex51)
+  - [ex52](#ex52)
  ---
  </details>
 
@@ -420,6 +423,40 @@ Ex:
 \>\> concatDict({"a": 3, "b": 6}, {"c": 2, "d": 4})  
 {'a': 3, 'b': 6, 'c': 2, 'd': 4}   
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex49.py)  
+
+---
+### <a name="ex50"></a>ex50
+Write a function who compute the factorial of a number  
+Ex:  
+\>\> factorial(3)  
+6  
+\>\> factorial(9)  
+362880  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex50.py)  
+
+
+---
+### <a name="ex51"></a>ex51
+Write a function dividerMult(n, a, nbRange) who found the numbers (from 0 to nbRange) who can be divided by n  
+and not multiplier of a
+Ex:  
+\>\> dividerMult(5, 2, 100)  
+[5, 15, 25, 35, 45, 55, 65, 75, 85, 95]  
+\>\> dividerMult(11, 3, 85)  
+[11, 22, 44, 55, 77]  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex51.py)  
+
+
+---
+### <a name="ex52"></a>ex52
+Write a function includeVowel(sentence) who take a string as argument and return true if string contain vowel  
+and false if not
+Ex:  
+\>\> includeVowel("I'm gonna take my shower")  
+True  
+\>\> includeVowel("rbhpm")  
+False  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex52.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
