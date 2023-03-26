@@ -65,6 +65,7 @@
   - [ex52](#ex52)
   - [ex53](#ex53)
   - [ex54](#ex54)
+  - [ex55](#ex55)
  ---
  </details>
 
@@ -472,11 +473,19 @@ gototheplage
 ### <a name="ex54"></a>ex54
 Write a function who take as parameters a list and a x then return a list of index where x is in lst  
 Ex:  
-\>\> ex positionEltList([1, 2, 3], 3)  
+\>\> positionEltList([1, 2, 3], 3)  
 3 
-\>\> ex positionEltList([1, 2, 3], 4)  
-"4 is not present in lst [1, 2, 3]"   
+\>\> positionEltList([1, 2, 3], 4)  
+4 is not present in lst [1, 2, 3]   
 []  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex54.py)  
+
+---
+### <a name="ex55"></a>ex55
+Write a function filterWord(sentence, minLen) who return the list of the words that are superior to minLen  
+Ex:  
+\>\> filterWord("Hello you", 4)  
+[Hello]  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex54.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
