@@ -469,12 +469,15 @@ gototheplage
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex53.py)  
 
 ---
-### <a name="ex53"></a>ex53
-Write a function deleteSpace(sentence) who take a string as argument and return the string without spaces  
+### <a name="ex54"></a>ex54
+Write a function who take as parameters a list and a x then return a list of index where x is in lst  
 Ex:  
-\>\> deleteSpace("go to the plage")  
-gototheplage  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex53.py)  
+\>\> ex positionEltList([1, 2, 3], 3)  
+3 
+\>\> ex positionEltList([1, 2, 3], 4)  
+"4 is not present in lst [1, 2, 3]"   
+[]  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex54.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
