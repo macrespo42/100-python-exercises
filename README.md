@@ -71,6 +71,7 @@
   - [ex58](#ex58)
   - [ex59](#ex59)
   - [ex60](#ex60)
+  - [ex61](#ex61)
  ---
  </details>
 
@@ -533,7 +534,15 @@ Ex:
 ---
 ### <a name="ex60"></a>ex60
 Write a function that take the path of a file as argument and return is content  
-print the result in the console 
+print the result in the console   
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex60.py)  
+
+---
+### <a name="ex61"></a>ex61
+Write a function that take the path of a file as argument and a word and return the numbers  
+of occurence of this word in the file then print the result in the console   
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex60.py)  
+
+---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
