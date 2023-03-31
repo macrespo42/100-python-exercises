@@ -1,4 +1,4 @@
-# ✨ 100 python exercices from beginner to advanced ✨
+# ✨ 100 python exercises from beginner to advanced ✨
 
 ## Summary :
  <details>
@@ -72,13 +72,11 @@
 
  <details>
  <summary>Advanced 🦅: </summary>
-
- - exXX
  </details>
  
 ---
 ### <a name="ex00"></a>ex00
- Declare 3 variables who values respectively: 
+Declare 3 variables to value respectively:  
  - a: 1, 
  - b: "Canada" 
  - c: 36.2  
@@ -93,19 +91,19 @@ Declare a variable **ch** with value ```"Hello"``` and modify it to make it valu
 
 ---
 ### <a name="ex02"></a>ex02
-Declare 2 variables **x** who equal to **3** and **y** who equal to **8.5** then convert it to string and  
-print there new types  
+Declare 2 variables **x** equal to **3** and **y** equal to ***8.5** and then convert them to string.
+print their new types  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex02.py)
 
 ---
 ### <a name="ex03"></a>ex03
-Write a script who input user for his weight in kg and print the user weight  
+Write a script that ask the user's weight in kg and display it.
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex03.py)
 
 ---
 ### <a name="ex04"></a>ex04
 Declare a variable **var** equal to ```"Hello"``` if its an integer the script must print ```"Integer"```
-if its a string print ```"String"```  
+if it's a string print ```"String"```  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex04.py)
 
 ---
@@ -116,24 +114,24 @@ print ```"Positive"``` else print ```"Negative"```
 
 ---
 ### <a name="ex06"></a>ex06
-Write a script who demand a user his age then if he is older than 18 print ```"major"```  else print ```"minor"```  
+Write a script that asks a user their age then if he is older than 18 print ```"major"```  else print ```"minor"```  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex06.py)
 
 ---
 ### <a name="ex07"></a>ex07
-Write a script who print number 1 to 20 included  
-nb: do this exercice with a while loop then a for loop  
+Write a script that print number 1 to 20 included  
+nb: do this exercise with a while loop then a for loop  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex07.py)
 
 ---
 ### <a name="ex08"></a>ex08
-Write a script who print odd number between 1 to 20 included  
-nb: do this exercice with a while loop then a for loop  
+nb: do this exerciseWrite a script that displays an odd number between 1 to 20 included  
+with a while loop then a for loop  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex08.py)
 
 ---
 ### <a name="ex09"></a>ex09
-Create a list feel with number from 1 to 10 with a list comprehension  
+Create a list feel with numbers from 1 to 10 with a list comprehension  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex09.py)
 
 ---
@@ -159,19 +157,19 @@ Create an empty list **L** then add **10, 25, 30, 45, 90** and ```"ab", "cd", "e
 
 ---
 ### <a name="ex14"></a>ex14
-Create a list **L** who contain **[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]** then create **L1** who contain  
+Create a list **L** that contain **[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]** then create **L1** that contain  
 1 element of 3 element of **L**. So L1 should contain **[1, 4, 7, 10]**  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex14.py)
 
 ---
 ### <a name="ex15"></a>ex15
-Write a script who can sort a string in alphabetical ascending order  
+Write a script that can sort a string in alphabetical ascending order  
 Ex: "france" become "acefnr"  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex15.py)
 
 ---
 ### <a name="ex16"></a>ex16
-Write a script whith 2 lists **L1** and **L2** then return a list **L3** who contain the common elements between  
+Write a script whith 2 lists **L1** and **L2** then return a list **L3** that contain the common elements between  
 **L1** and **L2**  
 **L1** = [9, 8, 7, 14, 3, 2, "a", "p", "bonjour", "b"]  
 **L2** = ["b", 1, 9.2, 6, 3, 9, "p"]  
@@ -179,37 +177,37 @@ Write a script whith 2 lists **L1** and **L2** then return a list **L3** who con
 
 ---
 ### <a name="ex17"></a>ex17
-Write a script who can sort a list of tuples **L** in increasing order based on the second element of the tuple  
+Write a script that can sort a list of tuples **L** in increasing order based on the second element of the tuple  
 **L** = [("Apple", 15), ("Banana", 8), ("Strawberry", 12), ("Kiwi", 9), ("Peach", 2)]  
 after the sorting it must look like : [('Peach', 2), ('Banana', 8), ('Kiwi', 9), ('Strawberry', 12), ('Apple', 15)]  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex17.py)
 
 ---
 ### <a name="ex18"></a>ex18
-Write a script who can reverse a string  
+Write a script that can reverse a string  
 Ex: "Hello everyone" became : "enoyreve olleH"  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex18.py)
 
 ---
 ### <a name="ex19"></a>ex19
-Write a script who write the keys of the dict ``{"Apple": 3, "Banana": 7, "Kiwi": 1}``  
+Write a script that write the keys of the dict ``{"Apple": 3, "Banana": 7, "Kiwi": 1}``  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex19.py)
 
 ---
 ### <a name="ex20"></a>ex20
-Write a script who print the sum of the values from the dict :  
+Write a script that print the sum of the values from the dict :  
 ``{"Pomme": 15, "Banane": 8, "Fraise": 12, "Kiwi": 9, "Peche": 2}``  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex20.py)
 
 ---
 ### <a name="ex21"></a>ex21
-Write a script who truncate a decimal number to 2 number after the comma.  
+Write a script that truncate a decimal number to 2 number after the comma.  
 Ex: 187.6312873193719 became 187.63  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex21.py)
 
 ---
 ### <a name="ex22"></a>ex22
-Write a script who format the string "My name is **myName** and i got **myAge**. I learn the language **myLanguage**"  
+Write a script that format the string "My name is **myName** and i got **myAge**. I learn the language **myLanguage**"  
 myName = "Maximw"  
 myName = "23"  
 myName = "ruby"  
@@ -217,7 +215,7 @@ myName = "ruby"
 
 ---
 ### <a name="ex23"></a>ex23
-Write a script who print the multiplication table of 8 like this:  
+Write a script that print the multiplication table of 8 like this:  
   
 ``8 x 0 = 0``  
 ``8 x 1 = 8``  
@@ -234,38 +232,38 @@ Write a script who print the multiplication table of 8 like this:
 
 ---
 ### <a name="ex24"></a>ex24
-Write a script who print the directory where the python script is  
+Write a script that print the directory where the python script is  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex24.py)
 
 ---
 ### <a name="ex25"></a>ex25
-Write a script who can delete an element from a list  
+Write a script that can delete an element from a list  
 Ex: **L** = [1, 2, 3, 4] delete 1  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex25.py)
 
 ---
 ### <a name="ex26"></a>ex26
-Write a script who can get the extension of a file (ex: script.py get the py)  
+Write a script that can get the extension of a file (ex: script.py get the py)  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex26.py)
 
 ---
 ### <a name="ex27"></a>ex27
-Write a script who can calculate the time of execution of an another script take the ex24 for example  
+Write a script that can calculate the time of execution of an another script take the ex24 for example  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex27.py)
 
 ---
 ### <a name="ex28"></a>ex28
-Make a script who can shuffle a list  
+Make a script that can shuffle a list  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex28.py)
 
 ---
 ### <a name="ex29"></a>ex29
-Make a script who print a random number between 20 and 30 (included)
+Make a script that print a random number between 20 and 30 (included)
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex29.py)
 
 ---
 ### <a name="ex30"></a>ex30
-Write a script who print this :  
+Write a script that print this :  
 ``[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]``   
 ``[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]``   
 ``[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]``   
@@ -280,18 +278,18 @@ Write a script who print this :
 ---
 ### <a name="ex31"></a>ex31
 Create a list **L** equals to [3, 6, 9, 12, 15, 18, 21, 24] then make a second list **L1** with comprehension  
-who got all element of **L** divised by 3 then print **L1**  
+that got all element of **L** divised by 3 then print **L1**  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex31.py)
 
 ---
 ### <a name="ex32"></a>ex32
 Create a list **L** equals to [-6.5, -3, -1.2, 2, 8, -3.6] then make a second list **L1** with comprehension  
-who got element of **L** who are strictly superior to 0 then print **L1**  
+that got element of **L** that are strictly superior to 0 then print **L1**  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/beginner/ex32.py)
 
 ---
 ### <a name="ex33"></a>ex33
-Write a function named f(a,b,x) who return the result of : ``a * (x**3) + 2 * a * (x**2) + b``  
+Write a function named f(a,b,x) that return the result of : ``a * (x**3) + 2 * a * (x**2) + b``  
 Tests:  
 f(3, 0, 1) return 9  
 f(0, 2, 2) return 2  
@@ -299,19 +297,19 @@ f(0, 2, 2) return 2
 
 ---
 ### <a name="ex34"></a>ex34
-Write a function naemed verifPresence(element, list) who return True if element is in list and false  
+Write a function naemed verifPresence(element, list) that return True if element is in list and false  
 if an element is not in the list  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex34.py)
 
 ---
 ### <a name="ex35"></a>ex35
-Write a function who return the sum of the number who compose this number  
+Write a function that return the sum of the number that compose this number  
 Ex: **149** print **14** and **3018** print **12**  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex35.py)
 
 ---
 ### <a name="ex36"></a>ex36
-Write a function sumOfList(lst) who take as argument a list of integer and return the sum of this list  
+Write a function sumOfList(lst) that take as argument a list of integer and return the sum of this list  
 Ex:  
 sumOfList([3, 2, 6, 9, -1, 5])    
 sumOfList([-3, -6, 0, 1, 2, 7])  
@@ -319,7 +317,7 @@ sumOfList([-3, -6, 0, 1, 2, 7])
 
 ---
 ### <a name="ex37"></a>ex37
-Write a function removeDuplicate(lst) who take as argument a list of integer and return the list without duplicate  
+Write a function removeDuplicate(lst) that take as argument a list of integer and return the list without duplicate  
 and sorted in increasing order
 Ex:  
 removeDuplicate([0, 3, 5, 7, 3, 5, 1, -1]) return [-1, 0, 1, 3, 5, 7]
@@ -328,7 +326,7 @@ removeDuplicate([-3, -6, 0, 1, 2, 7]) return [-6, -3, 0, 1, 2, 7]
 
 ---
 ### <a name="ex38"></a>ex38
-Write a function addElementDict(key, value, dict) who add an element to a dictionary and return it
+Write a function addElementDict(key, value, dict) that add an element to a dictionary and return it
 Ex:  
 addElementDict("baptiste", 29, {"julien": 14, "laurent": 31}) return: {'julien': 14, 'laurent': 31, 'baptiste': 29}  
 addElementDict("weight", 65.3, {}) return: {'weight': 65.3}
@@ -336,7 +334,7 @@ addElementDict("weight", 65.3, {}) return: {'weight': 65.3}
 
 ---
 ### <a name="ex39"></a>ex39
-Write a function maximum(lst) who take a list of number as argument and return the max  
+Write a function maximum(lst) that take a list of number as argument and return the max  
 nb: Do not use the builtin max function  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex39.py)  
 
@@ -352,7 +350,7 @@ Ex:
 
 ---
 ### <a name="ex41"></a>ex41
-Write a script who print a pyramid like that :  
+Write a script that print a pyramid like that :  
 
 ```*
 **
@@ -366,20 +364,20 @@ Write a script who print a pyramid like that :
 
 ---
 ### <a name="ex42"></a>ex42
-Write a function minimum who return the minimum(lst) who return the minimum value of a list  
+Write a function minimum that return the minimum(lst) that return the minimum value of a list  
 **NB: do no use the min builtin function**  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex42.py)  
 
 ---
 ### <a name="ex43"></a>ex43
-Write a function length(lst) who return the number of element in the list  
+Write a function length(lst) that return the number of element in the list  
 **NB: do no use the length builtin function**  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex43.py)  
 
 
 ---
 ### <a name="ex44"></a>ex44
-Write a function who return the average of a list of integer  
+Write a function that return the average of a list of integer  
 Ex:  
 \>\> listAverage([1, 2, 3, 4, 5, 6, 7])  
 4.0  
@@ -387,7 +385,7 @@ Ex:
 
 ---
 ### <a name="ex45"></a>ex45
-Write a function who return the average of a list of integer  
+Write a function that return the average of a list of integer  
 Ex:  
 \>\> divider(9)  
 [1, 3, 9]
@@ -395,7 +393,7 @@ Ex:
 
 ---
 ### <a name="ex46"></a>ex46
-Write a function who verify if a string contain a upper char  
+Write a function that verify if a string contain a upper char  
 Ex:  
 \>\> checkUpper("Vegetables are good for health")   
 True  
@@ -405,7 +403,7 @@ False
 
 ---
 ### <a name="ex47"></a>ex47
-Write a function who concat 3 list  
+Write a function that concat 3 list  
 Ex:  
 \>\> concatList([0, 9, 8], [3, 4, 2], ["false", "true", 5])
 [0, 9, 8, 3, 4, 2, 'false', 'true', 5]  
@@ -413,7 +411,7 @@ Ex:
 
 ---
 ### <a name="ex48"></a>ex48
-Write a function who return the length of values in a dict assuming the value in dict are lists
+Write a function that return the length of values in a dict assuming the value in dict are lists
 Ex:  
 \>\> dictValuesLength({"a": [1, 2, 3], "b": [4], "c": []})
 4  
@@ -422,7 +420,7 @@ Ex:
 
 ---
 ### <a name="ex49"></a>ex49
-Write a function who concat 2 dict and return the concatenated dict 
+Write a function that concat 2 dict and return the concatenated dict 
 Ex:  
 \>\> concatDict({"a": 3, "b": 6}, {"c": 2, "d": 4})  
 {'a': 3, 'b': 6, 'c': 2, 'd': 4}   
@@ -430,7 +428,7 @@ Ex:
 
 ---
 ### <a name="ex50"></a>ex50
-Write a function who compute the factorial of a number  
+Write a function that compute the factorial of a number  
 Ex:  
 \>\> factorial(3)  
 6  
@@ -441,7 +439,7 @@ Ex:
 
 ---
 ### <a name="ex51"></a>ex51
-Write a function dividerMult(n, a, nbRange) who found the numbers (from 0 to nbRange) who can be divided by n  
+Write a function dividerMult(n, a, nbRange) that found the numbers (from 0 to nbRange) that can be divided by n  
 and not multiplier of a
 Ex:  
 \>\> dividerMult(5, 2, 100)  
@@ -453,7 +451,7 @@ Ex:
 
 ---
 ### <a name="ex52"></a>ex52
-Write a function includeVowel(sentence) who take a string as argument and return true if string contain vowel  
+Write a function includeVowel(sentence) that take a string as argument and return true if string contain vowel  
 and false if not
 Ex:  
 \>\> includeVowel("I'm gonna take my shower")  
@@ -464,7 +462,7 @@ False
 
 ---
 ### <a name="ex53"></a>ex53
-Write a function deleteSpace(sentence) who take a string as argument and return the string without spaces  
+Write a function deleteSpace(sentence) that take a string as argument and return the string without spaces  
 Ex:  
 \>\> deleteSpace("go to the plage")  
 gototheplage  
@@ -472,7 +470,7 @@ gototheplage
 
 ---
 ### <a name="ex54"></a>ex54
-Write a function who take as parameters a list and a x then return a list of index where x is in lst  
+Write a function that take as parameters a list and a x then return a list of index where x is in lst  
 Ex:  
 \>\> positionEltList([1, 2, 3], 3)  
 3 
@@ -483,7 +481,7 @@ Ex:
 
 ---
 ### <a name="ex55"></a>ex55
-Write a function filterWord(sentence, minLen) who return the list of the words that are superior to minLen  
+Write a function filterWord(sentence, minLen) that return the list of the words that are superior to minLen  
 Ex:  
 \>\> filterWord("Hello you", 4)  
 [Hello]  
@@ -492,7 +490,7 @@ Ex:
 
 ---
 ### <a name="ex56"></a>ex56
-Write a function who reverse sentence reverseSentence(sentence)
+Write a function that reverse sentence reverseSentence(sentence)
 Ex:  
 \>\> reverseSentence("Hello my friends")  
 friends my Hello  
