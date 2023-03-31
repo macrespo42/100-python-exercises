@@ -494,7 +494,18 @@ Write a function that reverse sentence reverseSentence(sentence)
 Ex:  
 \>\> reverseSentence("Hello my friends")  
 friends my Hello  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex54.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex56.py)  
+
+---
+### <a name="ex57"></a>ex57
+Write a function that take a list as argument (numberOfMatch(lst)) and return a tuple  
+with the element of the the list and the number of occurences in this list  
+Ex:  
+\>\> numberOfMatch([-4, 8, -3, 2, 1, 2, 7, 9, -3, 8, 1])  
+[(-4, 1), (8, 2), (-3, 2), (2, 2), (1, 2), (7, 1), (9, 1)]  
+\>\> numberOfMatch(["a", 3, 4, "b", "a", 3])
+[('a', 2), (3, 2), (4, 1), ('b', 1)]  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex57.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
