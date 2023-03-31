@@ -67,6 +67,8 @@
   - [ex54](#ex54)
   - [ex55](#ex55)
   - [ex56](#ex56)
+  - [ex57](#ex57)
+  - [ex58](#ex58)
  ---
  </details>
 
@@ -485,7 +487,7 @@ Write a function filterWord(sentence, minLen) that return the list of the words 
 Ex:  
 \>\> filterWord("Hello you", 4)  
 [Hello]  
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex54.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex55.py)  
 
 
 ---
@@ -506,6 +508,15 @@ Ex:
 \>\> numberOfMatch(["a", 3, 4, "b", "a", 3])
 [('a', 2), (3, 2), (4, 1), ('b', 1)]  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex57.py)  
+
+---
+### <a name="ex58"></a>ex58
+Write a funtion that take 3 list unionLst(lst1, lst2, lst3) and return a concatenation  
+of the 3 lists without duplicate and sorted in ascending order
+Ex:  
+\>\> unionLst([3, 6, 9, 3], [1, 0, 3], [12, 6, 0])  
+[0, 1, 3, 6, 9, 12]  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex58.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
