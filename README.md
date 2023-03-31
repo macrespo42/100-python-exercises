@@ -69,6 +69,7 @@
   - [ex56](#ex56)
   - [ex57](#ex57)
   - [ex58](#ex58)
+  - [ex59](#ex59)
  ---
  </details>
 
@@ -511,12 +512,22 @@ Ex:
 
 ---
 ### <a name="ex58"></a>ex58
-Write a funtion that take 3 list unionLst(lst1, lst2, lst3) and return a concatenation  
+Write a function that take 3 list unionLst(lst1, lst2, lst3) and return a concatenation  
 of the 3 lists without duplicate and sorted in ascending order
 Ex:  
 \>\> unionLst([3, 6, 9, 3], [1, 0, 3], [12, 6, 0])  
 [0, 1, 3, 6, 9, 12]  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex58.py)  
+
+---
+### <a name="ex59"></a>ex59
+Write a function that return the gcd of 2 integer  
+Ex:  
+\>\> gcd(3, 5)  
+1
+\>\> gcd(5, 15)  
+5
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex59.py)  
 
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
