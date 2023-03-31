@@ -70,6 +70,7 @@
   - [ex57](#ex57)
   - [ex58](#ex58)
   - [ex59](#ex59)
+  - [ex60](#ex60)
  ---
  </details>
 
@@ -521,13 +522,18 @@ Ex:
 
 ---
 ### <a name="ex59"></a>ex59
-Write a function that return the gcd of 2 integer  
+Write a function that return the gcd of 2 integer
 Ex:  
 \>\> gcd(3, 5)  
 1
 \>\> gcd(5, 15)  
-5
+5  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex59.py)  
 
+---
+### <a name="ex60"></a>ex60
+Write a function that take the path of a file as argument and return is content  
+print the result in the console 
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex60.py)  
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
