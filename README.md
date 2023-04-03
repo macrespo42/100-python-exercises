@@ -76,6 +76,7 @@
   - [ex63](#ex63)
   - [ex64](#ex64)
   - [ex65](#ex65)
+  - [ex66](#ex66)
  ---
  </details>
 
@@ -573,6 +574,16 @@ present inside the given directory
 Write a function that take a file path and a string as argument and then write the string  
 in the file
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex65.py)  
+
+
+---
+### <a name="ex66"></a>ex66
+Write a function that take a dict as argument and return the key of the dict that have  
+the value with the greatest length  
+**NB: we assume that the dict got an array has value**  
+Ex: keyMaxValue({"a": [9, 10, 9, 7, 3, 1], "b": [5, 3, 2, 2, 2], "c": [1, 1, 1, 1, 1, 1, 8, 2]})   
+a  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex66.py)  
 
 ---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
