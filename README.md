@@ -77,6 +77,7 @@
   - [ex64](#ex64)
   - [ex65](#ex65)
   - [ex66](#ex66)
+  - [ex67](#ex67)
  ---
  </details>
 
@@ -584,6 +585,17 @@ the value with the greatest length
 Ex: keyMaxValue({"a": [9, 10, 9, 7, 3, 1], "b": [5, 3, 2, 2, 2], "c": [1, 1, 1, 1, 1, 1, 8, 2]})   
 a  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex66.py)  
+
+
+---
+### <a name="ex67"></a>ex67
+Write a script that ask user to input a list then print this list  
+Enter list size: 3  
+enter a list element : 1  
+enter a list element : 2  
+enter a list element : 3  
+['1', '2', '3']  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex67.py)  
 
 ---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
