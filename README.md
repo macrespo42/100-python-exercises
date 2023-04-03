@@ -72,6 +72,10 @@
   - [ex59](#ex59)
   - [ex60](#ex60)
   - [ex61](#ex61)
+  - [ex62](#ex62)
+  - [ex63](#ex63)
+  - [ex64](#ex64)
+  - [ex65](#ex65)
  ---
  </details>
 
@@ -541,7 +545,34 @@ print the result in the console
 ### <a name="ex61"></a>ex61
 Write a function that take the path of a file as argument and a word and return the numbers  
 of occurence of this word in the file then print the result in the console   
-[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex60.py)  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex61.py)  
+
+---
+### <a name="ex62"></a>ex62
+Write a function that take the path of a file as argument and a character and delete all  
+occurence of the specified char in the file  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex62.py)  
+
+
+---
+### <a name="ex63"></a>ex63
+Write a function that take the path of a file as argument and return True if the file has number  
+inside false otherwise
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex63.py)  
+
+
+---
+### <a name="ex64"></a>ex64
+Write a function that take the path of a directory as argument and return the number of files  
+present inside the given directory
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex64.py)  
+
+
+---
+### <a name="ex65"></a>ex65
+Write a function that take a file path and a string as argument and then write the string  
+in the file
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex65.py)  
 
 ---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
