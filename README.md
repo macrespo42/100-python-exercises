@@ -78,6 +78,7 @@
   - [ex65](#ex65)
   - [ex66](#ex66)
   - [ex67](#ex67)
+  - [ex68](#ex68)
  ---
  </details>
 
@@ -596,6 +597,16 @@ enter a list element : 2
 enter a list element : 3  
 ['1', '2', '3']  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex67.py)  
+
+
+---
+### <a name="ex68"></a>ex68
+Write a function nbDayHour(startDate, endDate) who take 2 string who are a start date and end date then  
+and calculate the numbers of days and hours between theses 2 dates then return it in a tuple  
+Example:  
+nbDayHour("2022/05/15", "2022/06/20") give : (36, 864)
+nbDayHour("2022/04/1", "2022/04/27") give : (26, 624)
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex68.py)  
 
 ---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
