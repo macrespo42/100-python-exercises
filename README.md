@@ -80,6 +80,7 @@
   - [ex67](#ex67)
   - [ex68](#ex68)
   - [ex69](#ex69)
+  - [ex70](#ex70)
  ---
  </details>
 
@@ -615,9 +616,18 @@ nbDayHour("2022/04/1", "2022/04/27") give : (26, 624)
 Write a function passwordGenerator(chars_list, pass_size) that take a string as argument and a size then  
 generate a random password with these chars of size given  
 Example:  
-passwordGenerator("hiufdsgad", 12) -> hfiasddgighi
-
+passwordGenerator("hiufdsgad", 12)  
+hfiasddgighi  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex69.py)  
+
+---
+### <a name="ex70"></a>ex70
+Write a function fonctTrigo(x) that take a number x as parameter then return the result  
+of the fonction ```f(x) = cos(x)*sin(x) + sin(x) + 8```   
+Example:
+\>\> fonctTrigo(math.pi / 4)  
+9.207106781186548  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex70.py)  
 
 ---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
