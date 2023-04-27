@@ -79,6 +79,7 @@
   - [ex66](#ex66)
   - [ex67](#ex67)
   - [ex68](#ex68)
+  - [ex69](#ex69)
  ---
  </details>
 
@@ -607,6 +608,16 @@ Example:
 nbDayHour("2022/05/15", "2022/06/20") give : (36, 864)
 nbDayHour("2022/04/1", "2022/04/27") give : (26, 624)
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex68.py)  
+
+
+---
+### <a name="ex69"></a>ex69
+Write a function passwordGenerator(chars_list, pass_size) that take a string as argument and a size then  
+generate a random password with these chars of size given  
+Example:  
+passwordGenerator("hiufdsgad", 12) -> hfiasddgighi
+
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex69.py)  
 
 ---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
