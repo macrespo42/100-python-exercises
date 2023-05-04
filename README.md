@@ -81,6 +81,9 @@
   - [ex68](#ex68)
   - [ex69](#ex69)
   - [ex70](#ex70)
+  - [ex71](#ex71)
+  - [ex72](#ex72)
+  - [ex73](#ex73)
  ---
  </details>
 
@@ -628,6 +631,14 @@ Example:
 \>\> fonctTrigo(math.pi / 4)  
 9.207106781186548  
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex70.py)  
+
+---
+### <a name="ex71"></a>ex71
+Write a program that permit to stock in a list all the integer positive a 3 number of form **abc**  
+such as for each integer the **sum of the 3 number a + b + c** are a **divider of a * b * c**.  
+the program must print this list at the end.  
+For example the number 514 verify this propriety, 5 + 1 + 4 = 10 and is a divider of 5 * 1 * 4 = 20  
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex71.py)  
 
 ---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
