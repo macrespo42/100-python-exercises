@@ -647,5 +647,15 @@ The goal of this exercise is to write the same function but recursively
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex72.py)  
 
 ---
+### <a name="ex73"></a>ex73
+Write a function fibonacci(n) who take a argument an integer n and return the index n of the fibonacci suit
+Example:  
+\>\> fibonacci(25)  
+75025  
+\>\> fibonacci(45)  
+1134903170
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex73.py)  
+
+---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
