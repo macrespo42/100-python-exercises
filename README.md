@@ -641,5 +641,11 @@ For example the number 514 verify this propriety, 5 + 1 + 4 = 10 and is a divide
 [correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex71.py)  
 
 ---
+### <a name="ex72"></a>ex72
+In this exercices take the solution of the exercice 37 who consist to write a function sum(list).  
+The goal of this exercise is to write the same function but recursively
+[correction](https://github.com/macrespo42/101-python-exercises/blob/main/intermediate/ex72.py)  
+
+---
 Exercices source : [100 Exercices Python pour s'entrainer](https://urlz.fr/l6Ev)  
 Feel free to contribute by adding more exercices or fix something thanks ❤️
